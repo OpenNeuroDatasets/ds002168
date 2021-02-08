@@ -1,8 +1,0 @@
-1.1.0 2021-02-08
-  - Added fmap files
-  - Updated event files to include all trials (including baseline trials) with stimulus type and responses noted
-  - Reference for the published data: Nash, M. I., Hodges, C. B., Muncy, N. M., & Kirwan, C. B. (n.d.). Pattern separation beyond the hippocampus: A high-resolution whole-brain investigation of mnemonic discrimination in healthy adults. Hippocampus, n/a(n/a). https://doi.org/10.1002/hipo.23299
-
-1.0.0	2019-09-12
-
-	- Initial snapshot
