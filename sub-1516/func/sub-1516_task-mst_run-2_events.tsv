@@ -1,69 +1,108 @@
-onset	duration	trial_type
-7.0	3.5	CR
-17.5	3.5	CR
-35.0	3.5	CR
-38.5	3.5	Hit
-42.0	3.5	CR
-49.0	3.5	CR
-56.0	3.5	CR
-59.5	3.5	Other
-63.0	3.5	Hit
-70.0	3.5	CR
-77.0	3.5	Other
-80.5	3.5	CR
-87.5	3.5	CR
-91.0	3.5	LureFA
-98.0	3.5	CR
-101.5	3.5	LureFA
-105.0	3.5	LureFA
-108.5	3.5	CR
-112.0	3.5	Hit
-119.0	3.5	CR
-129.5	3.5	CR
-133.0	3.5	LureCR
-143.5	3.5	CR
-150.5	3.5	CR
-154.0	3.5	Hit
-157.5	3.5	Other
-164.5	3.5	CR
-171.5	3.5	CR
-182.0	3.5	CR
-203.0	3.5	CR
-210.0	3.5	Other
-213.5	3.5	CR
-217.0	3.5	Other
-224.0	3.5	CR
-227.5	3.5	LureCR
-234.5	3.5	CR
-238.0	3.5	LureCR
-248.5	3.5	CR
-255.5	3.5	CR
-259.0	3.5	LureCR
-262.5	3.5	Hit
-266.0	3.5	Other
-269.5	3.5	Other
-273.0	3.5	LureFA
-276.5	3.5	Hit
-280.0	3.5	CR
-287.0	3.5	CR
-290.5	3.5	Hit
-294.0	3.5	Hit
-297.5	3.5	CR
-301.0	3.5	Hit
-304.5	3.5	Hit
-308.0	3.5	CR
-311.5	3.5	LureFA
-315.0	3.5	LureFA
-318.5	3.5	CR
-322.0	3.5	LureFA
-325.5	3.5	LureCR
-329.0	3.5	CR
-332.5	3.5	LureFA
-336.0	3.5	Hit
-343.0	3.5	Hit
-346.5	3.5	Hit
-350.0	3.5	Other
-353.5	3.5	Other
-357.0	3.5	Other
-364.0	3.5	LureFA
-367.5	3.5	Hit
+onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_bin
+0.0	3.5	Foil	stimuli/objects/foils/foil_1555.JPG	0	3#	New	0.966	0
+3.5	3.5	Foil	stimuli/objects/foils/foil_1281.JPG	0	3#	New	0.892	0
+7.0	3.5	First	stimuli/objects/setsof2/114b.jpg	114	3#	New	0.957	0
+10.5	3.5	Foil	stimuli/objects/foils/foil_1662.JPG	0	3#	New	1.188	0
+14.0	3.5	Foil	stimuli/objects/foils/foil_1026.jpg	0	3#	New	0.644	0
+17.5	3.5	First	stimuli/objects/setsof2/051a.jpg	51	3#	New	0.939	0
+21.0	3.5	Foil	stimuli/objects/foils/foil_1408.JPG	0	3#	New	0.866	0
+24.5	3.5	Foil	stimuli/objects/foils/foil_1022.jpg	0	3#	New	0.640	0
+28.0	3.5	Foil	stimuli/objects/foils/foil_1549.JPG	0	3#	New	0.847	0
+31.5	3.5	Foil	stimuli/objects/foils/foil_1477.JPG	0	3#	New	0.629	0
+35.0	3.5	First	stimuli/objects/setsof2/113a.jpg	113	3#	New	0.581	0
+38.5	3.5	Repeat	stimuli/objects/setsof2/114b.jpg	114	1!	Old	1.000	0
+42.0	3.5	First	stimuli/objects/setsof2/120b.jpg	120	3#	New	0.802	0
+45.5	3.5	Foil	stimuli/objects/foils/foil_1223.JPG	0	3#	New	1.086	0
+49.0	3.5	First	stimuli/objects/setsof2/033a.jpg	33	3#	New	0.851	0
+52.5	3.5	Foil	stimuli/objects/foils/foil_1075.JPG	0	3#	New	0.732	0
+56.0	3.5	First	stimuli/objects/setsof2/188b.jpg	188	3#	New	0.828	0
+59.5	3.5	Repeat	stimuli/objects/setsof2/051a.jpg	51	5%	None	1.744	0
+63.0	3.5	Repeat	stimuli/objects/setsof2/120b.jpg	120	1!	Old	1.051	0
+66.5	3.5	Foil	stimuli/objects/foils/foil_1522.JPG	0	3#	New	0.914	0
+70.0	3.5	First	stimuli/objects/setsof2/179b.jpg	179	3#	New	1.155	0
+73.5	3.5	Foil	stimuli/objects/foils/foil_1637.JPG	0	3#	New	1.105	0
+77.0	3.5	Lure	stimuli/objects/setsof2/113b.jpg	113	5%	None	1.742	6
+80.5	3.5	First	stimuli/objects/setsof2/106b.jpg	106	3#	New	1.350	0
+84.0	3.5	Foil	stimuli/objects/foils/foil_1287.JPG	0	3#	New	1.101	0
+87.5	3.5	First	stimuli/objects/setsof2/003a.jpg	3	3#	New	0.855	0
+91.0	3.5	Lure	stimuli/objects/setsof2/188a.jpg	188	1!	Old	1.020	4
+94.5	3.5	Foil	stimuli/objects/foils/foil_1544.JPG	0	3#	New	1.048	0
+98.0	3.5	First	stimuli/objects/setsof2/076a.jpg	76	3#	New	1.010	0
+101.5	3.5	Lure	stimuli/objects/setsof2/179a.jpg	179	1!	Old	1.642	6
+105.0	3.5	Lure	stimuli/objects/setsof2/033b.jpg	33	1!	Old	1.426	4
+108.5	3.5	First	stimuli/objects/setsof2/062b.jpg	62	3#	New	0.941	0
+112.0	3.5	Repeat	stimuli/objects/setsof2/106b.jpg	106	1!	Old	1.301	0
+115.5	3.5	Foil	stimuli/objects/foils/foil_1616.JPG	0	3#	New	1.261	0
+119.0	3.5	First	stimuli/objects/setsof2/068b.jpg	68	3#	New	1.034	0
+122.5	3.5	Foil	stimuli/objects/foils/foil_1646.JPG	0	3#	New	1.206	0
+126.0	3.5	Foil	stimuli/objects/foils/foil_1143.JPG	0	3#	New	1.309	0
+129.5	3.5	First	stimuli/objects/setsof2/052a.jpg	52	3#	New	0.739	0
+133.0	3.5	Lure	stimuli/objects/setsof2/003b.jpg	3	2@	New	1.101	1
+136.5	3.5	Foil	stimuli/objects/foils/foil_1715.JPG	0	3#	New	0.865	0
+140.0	3.5	Foil	stimuli/objects/foils/foil_1463.JPG	0	3#	New	1.303	0
+143.5	3.5	First	stimuli/objects/setsof2/158a.jpg	158	3#	New	0.777	0
+147.0	3.5	Foil	stimuli/objects/foils/foil_1283.JPG	0	3#	New	0.756	0
+150.5	3.5	First	stimuli/objects/setsof2/126a.jpg	126	3#	New	0.813	0
+154.0	3.5	Repeat	stimuli/objects/setsof2/062b.jpg	62	1!	Old	1.571	0
+157.5	3.5	Foil	stimuli/objects/foils/foil_1560.JPG	0	2@	Old	1.368	0
+161.0	3.5	Foil	stimuli/objects/foils/foil_1552.JPG	0	3#	New	1.007	0
+164.5	3.5	First	stimuli/objects/setsof2/143b.jpg	143	3#	New	0.831	0
+168.0	3.5	Foil	stimuli/objects/foils/foil_1267.JPG	0	3#	New	0.995	0
+171.5	3.5	First	stimuli/objects/setsof2/021a.jpg	21	3#	New	0.703	0
+175.0	3.5	Foil	stimuli/objects/foils/foil_1698.JPG	0	3#	New	0.932	0
+178.5	3.5	Foil	stimuli/objects/foils/foil_1284.JPG	0	3#	New	0.905	0
+182.0	3.5	First	stimuli/objects/setsof2/054a.jpg	54	3#	New	0.786	0
+185.5	3.5	Foil	stimuli/objects/foils/foil_1399.JPG	0	3#	New	1.198	0
+189.0	3.5	Foil	stimuli/objects/foils/foil_1551.jpg	0	3#	New	0.787	0
+192.5	3.5	Foil	stimuli/objects/foils/foil_1391.JPG	0	3#	New	0.958	0
+196.0	3.5	Foil	stimuli/objects/foils/foil_1366.JPG	0	3#	New	1.446	0
+199.5	3.5	Foil	stimuli/objects/foils/foil_1346.JPG	0	3#	New	0.775	0
+203.0	3.5	First	stimuli/objects/setsof2/190a.jpg	190	3#	New	1.002	0
+206.5	3.5	Foil	stimuli/objects/foils/foil_1210.JPG	0	3#	New	0.682	0
+210.0	3.5	Foil	stimuli/objects/foils/foil_1034.JPG	0	2@	New	1.567	0
+213.5	3.5	First	stimuli/objects/setsof2/032b.jpg	32	3#	New	1.093	0
+217.0	3.5	First	stimuli/objects/setsof2/010a.jpg	10	2@	New	1.687	0
+220.5	3.5	Foil	stimuli/objects/foils/foil_1568.JPG	0	3#	New	0.943	0
+224.0	3.5	First	stimuli/objects/setsof2/121b.jpg	121	3#	New	0.902	0
+227.5	3.5	Lure	stimuli/objects/setsof2/054b.jpg	54	2@	New	1.171	1
+231.0	3.5	Foil	stimuli/objects/foils/foil_1676.JPG	0	3#	New	0.972	0
+234.5	3.5	First	stimuli/objects/setsof2/005a.jpg	5	3#	New	0.848	0
+238.0	3.5	Lure	stimuli/objects/setsof2/076b.jpg	76	2@	New	0.948	1
+241.5	3.5	Foil	stimuli/objects/foils/foil_1372.JPG	0	3#	New	0.806	0
+245.0	3.5	Foil	stimuli/objects/foils/foil_1313.JPG	0	3#	New	0.922	0
+248.5	3.5	First	stimuli/objects/setsof2/122b.jpg	122	3#	New	0.946	0
+252.0	3.5	Foil	stimuli/objects/foils/foil_1291.JPG	0	3#	New	0.813	0
+255.5	3.5	First	stimuli/objects/setsof2/070a.jpg	70	3#	New	0.824	0
+259.0	3.5	Lure	stimuli/objects/setsof2/010b.jpg	10	2@	New	0.973	4
+262.5	3.5	Repeat	stimuli/objects/setsof2/068b.jpg	68	1!	Old	1.140	0
+266.0	3.5	Foil	stimuli/objects/foils/foil_1632.JPG	0	5%	None	1.732	0
+269.5	3.5	First	stimuli/objects/setsof2/050b.jpg	50	5%	None	1.732	0
+273.0	3.5	Lure	stimuli/objects/setsof2/052b.jpg	52	1!	Old	1.101	4
+276.5	3.5	Repeat	stimuli/objects/setsof2/190a.jpg	190	1!	Old	1.009	0
+280.0	3.5	First	stimuli/objects/setsof2/024a.jpg	24	3#	New	0.935	0
+283.5	3.5	Foil	stimuli/objects/foils/foil_1419.JPG	0	3#	New	1.311	0
+287.0	3.5	First	stimuli/objects/setsof2/081b.jpg	81	3#	New	0.934	0
+290.5	3.5	Repeat	stimuli/objects/setsof2/158a.jpg	158	1!	Old	0.984	0
+294.0	3.5	Repeat	stimuli/objects/setsof2/126a.jpg	126	1!	Old	1.477	0
+297.5	3.5	First	stimuli/objects/setsof2/185a.jpg	185	3#	New	1.213	0
+301.0	3.5	Repeat	stimuli/objects/setsof2/143b.jpg	143	1!	Old	1.042	0
+304.5	3.5	Repeat	stimuli/objects/setsof2/005a.jpg	5	1!	Old	1.269	0
+308.0	3.5	First	stimuli/objects/setsof2/096a.jpg	96	3#	New	1.480	0
+311.5	3.5	Lure	stimuli/objects/setsof2/021b.jpg	21	1!	Old	1.092	6
+315.0	3.5	Lure	stimuli/objects/setsof2/122a.jpg	122	1!	Old	1.268	3
+318.5	3.5	First	stimuli/objects/setsof2/071b.jpg	71	3#	New	1.242	0
+322.0	3.5	Lure	stimuli/objects/setsof2/121a.jpg	121	1!	Old	1.014	6
+325.5	3.5	Lure	stimuli/objects/setsof2/081a.jpg	81	2@	Old	1.258	1
+329.0	3.5	First	stimuli/objects/setsof2/028a.jpg	28	3#	New	1.693	0
+332.5	3.5	Lure	stimuli/objects/setsof2/032a.jpg	32	1!	Old	1.362	4
+336.0	3.5	Repeat	stimuli/objects/setsof2/050b.jpg	50	1!	Old	1.454	0
+339.5	3.5	Foil	stimuli/objects/foils/foil_1386.JPG	0	3#	New	1.529	0
+343.0	3.5	Repeat	stimuli/objects/setsof2/096a.jpg	96	1!	Old	1.006	0
+346.5	3.5	Repeat	stimuli/objects/setsof2/024a.jpg	24	1!	Old	1.009	0
+350.0	3.5	Foil	stimuli/objects/foils/foil_1553.JPG	0	5%	None	1.727	0
+353.5	3.5	Lure	stimuli/objects/setsof2/071a.jpg	71	3#	New	1.237	5
+357.0	3.5	Repeat	stimuli/objects/setsof2/070a.jpg	70	5%	None	1.727	0
+360.5	3.5	Foil	stimuli/objects/foils/foil_1321.JPG	0	3#	New	0.713	0
+364.0	3.5	Lure	stimuli/objects/setsof2/028b.jpg	28	1!	Old	0.971	6
+367.5	3.5	Repeat	stimuli/objects/setsof2/185a.jpg	185	1!	Old	1.004	0
+371.0	3.5	Foil	stimuli/objects/foils/foil_1629.JPG	0	3#	New	1.481	0
