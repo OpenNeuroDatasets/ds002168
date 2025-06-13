@@ -1,3 +1,5 @@
+1.2.0 2025-06-13
+  - updated event files to include stimulus filename, set number, and similarity level
 1.1.0 2021-02-08
   - Added fmap files
   - Updated event files to include all trials (including baseline trials) with stimulus type and responses noted
