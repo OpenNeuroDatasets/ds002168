@@ -15,7 +15,7 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 45.5	3.5	First	stimuli/objects/setsof2/175b.jpg	175	3#	New	1.115	0
 49.0	3.5	Lure	stimuli/objects/setsof2/030a.jpg	30	5%	None	1.744	1
 52.5	3.5	Foil	stimuli/objects/foils/foil_1023.jpg	0	3#	New	1.279	0
-56.0	3.5	Lure	stimuli/objects/setsof2/107a.jpg	107	2@	New	1.424	3
+56.0	3.5	Lure	stimuli/objects/setsof2/107a.jpg	107	2@	Similar	1.424	3
 59.5	3.5	First	stimuli/objects/setsof2/116a.jpg	116	3#	New	1.002	0
 63.0	3.5	Foil	stimuli/objects/foils/foil_1295.JPG	0	3#	New	1.473	0
 66.5	3.5	Repeat	stimuli/objects/setsof2/087a.jpg	87	5%	None	1.743	0
