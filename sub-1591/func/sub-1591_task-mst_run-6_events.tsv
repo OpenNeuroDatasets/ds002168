@@ -16,7 +16,7 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 49.0	3.5	Repeat	stimuli/objects/setsof2/118b.jpg	118	3#	New	0.832	0
 52.5	3.5	Foil	stimuli/objects/foils/foil_1337.JPG	0	3#	New	0.683	0
 56.0	3.5	First	stimuli/objects/setsof2/164b.jpg	164	3#	New	0.623	0
-59.5	3.5	Lure	stimuli/objects/setsof2/005a.jpg	5	2@	New	1.236	3
+59.5	3.5	Lure	stimuli/objects/setsof2/005a.jpg	5	2@	Similar	1.236	3
 63.0	3.5	First	stimuli/objects/setsof2/174b.jpg	174	3#	New	0.819	0
 66.5	3.5	First	stimuli/objects/setsof2/085b.jpg	85	3#	New	0.638	0
 70.0	3.5	Foil	stimuli/objects/foils/foil_1212.JPG	0	3#	New	0.988	0
@@ -29,7 +29,7 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 94.5	3.5	Foil	stimuli/objects/foils/foil_1415.JPG	0	3#	New	0.564	0
 98.0	3.5	First	stimuli/objects/setsof2/043a.jpg	43	3#	New	0.926	0
 101.5	3.5	Repeat	stimuli/objects/setsof2/085b.jpg	85	5%	None	1.741	0
-105.0	3.5	Lure	stimuli/objects/setsof2/174a.jpg	174	2@	None	1.554	6
+105.0	3.5	Lure	stimuli/objects/setsof2/174a.jpg	174	2@	Similar	1.554	6
 108.5	3.5	First	stimuli/objects/setsof2/154b.jpg	154	3#	New	0.843	0
 112.0	3.5	Foil	stimuli/objects/foils/foil_1665.JPG	0	5%	None	1.739	0
 115.5	3.5	Foil	stimuli/objects/foils/foil_1716.JPG	0	3#	New	1.008	0
@@ -51,7 +51,7 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 171.5	3.5	First	stimuli/objects/setsof2/149a.jpg	149	3#	New	0.529	0
 175.0	3.5	Repeat	stimuli/objects/setsof2/092a.jpg	92	3#	New	0.776	0
 178.5	3.5	First	stimuli/objects/setsof2/183a.jpg	183	3#	New	0.676	0
-182.0	3.5	Repeat	stimuli/objects/setsof2/154b.jpg	154	2@	New	1.167	0
+182.0	3.5	Repeat	stimuli/objects/setsof2/154b.jpg	154	2@	Similar	1.167	0
 185.5	3.5	Foil	stimuli/objects/foils/foil_1194.JPG	0	1!	Old	1.083	0
 189.0	3.5	Foil	stimuli/objects/foils/foil_1197.JPG	0	3#	New	1.007	0
 192.5	3.5	First	stimuli/objects/setsof2/147a.jpg	147	3#	New	0.774	0
@@ -66,7 +66,7 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 224.0	3.5	First	stimuli/objects/setsof2/163b.jpg	163	3#	New	0.800	0
 227.5	3.5	Foil	stimuli/objects/foils/foil_1051.JPG	0	3#	New	0.983	0
 231.0	3.5	Foil	stimuli/objects/foils/foil_1154.JPG	0	3#	New	0.713	0
-234.5	3.5	Repeat	stimuli/objects/setsof2/172a.jpg	172	2@	New	1.358	0
+234.5	3.5	Repeat	stimuli/objects/setsof2/172a.jpg	172	2@	Similar	1.358	0
 238.0	3.5	Repeat	stimuli/objects/setsof2/043a.jpg	43	1!	Old	1.170	0
 241.5	3.5	Foil	stimuli/objects/foils/foil_1288.jpg	0	3#	New	0.827	0
 245.0	3.5	First	stimuli/objects/setsof2/025a.jpg	25	3#	New	0.722	0
@@ -95,13 +95,13 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 325.5	3.5	Lure	stimuli/objects/setsof2/048b.jpg	48	3#	New	1.599	2
 329.0	3.5	First	stimuli/objects/setsof2/076b.jpg	76	3#	New	0.934	0
 332.5	3.5	Repeat	stimuli/objects/setsof2/037a.jpg	37	1!	Old	0.783	0
-336.0	3.5	Lure	stimuli/objects/setsof2/168b.jpg	168	2@	Old	1.022	4
+336.0	3.5	Lure	stimuli/objects/setsof2/168b.jpg	168	2@	Similar	1.022	4
 339.5	3.5	Foil	stimuli/objects/foils/foil_1209.JPG	0	3#	New	1.232	0
 343.0	3.5	Repeat	stimuli/objects/setsof2/120a.jpg	120	1!	Old	1.446	0
 346.5	3.5	Repeat	stimuli/objects/setsof2/050b.jpg	50	1!	Old	1.722	0
 350.0	3.5	Foil	stimuli/objects/foils/foil_1030.JPG	0	3#	New	1.187	0
 353.5	3.5	Repeat	stimuli/objects/setsof2/188a.jpg	188	5%	None	1.725	0
-357.0	3.5	Lure	stimuli/objects/setsof2/147b.jpg	147	2@	None	1.723	1
+357.0	3.5	Lure	stimuli/objects/setsof2/147b.jpg	147	2@	Similar	1.723	1
 360.5	3.5	Foil	stimuli/objects/foils/foil_1470.JPG	0	3#	New	1.214	0
 364.0	3.5	Foil	stimuli/objects/foils/foil_1394.JPG	0	5%	None	1.725	0
 367.5	3.5	Lure	stimuli/objects/setsof2/018b.jpg	18	5%	None	1.725	1
