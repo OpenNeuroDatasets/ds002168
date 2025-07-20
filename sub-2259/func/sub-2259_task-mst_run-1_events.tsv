@@ -51,7 +51,7 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 171.5	3.5	First	stimuli/objects/setsof2/086a.jpg	86	3#	New	0.922	0
 175.0	3.5	Lure	stimuli/objects/setsof2/052b.jpg	52	1!	Old	1.433	4
 178.5	3.5	Foil	stimuli/objects/foils/foil_1405.JPG	0	3#	New	0.850	0
-182.0	3.5	Lure	stimuli/objects/setsof2/062a.jpg	62	2@	New	1.409	2
+182.0	3.5	Lure	stimuli/objects/setsof2/062a.jpg	62	2@	Similar	1.409	2
 185.5	3.5	First	stimuli/objects/setsof2/042b.jpg	42	3#	New	1.702	0
 189.0	3.5	Repeat	stimuli/objects/setsof2/046a.jpg	46	1!	Old	1.161	0
 192.5	3.5	First	stimuli/objects/setsof2/083a.jpg	83	1!	Old	1.541	0
@@ -71,7 +71,7 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 241.5	3.5	First	stimuli/objects/setsof2/187a.jpg	187	3#	New	0.848	0
 245.0	3.5	First	stimuli/objects/setsof2/121a.jpg	121	3#	New	1.465	0
 248.5	3.5	Repeat	stimuli/objects/setsof2/086a.jpg	86	1!	Old	1.034	0
-252.0	3.5	Lure	stimuli/objects/setsof2/080a.jpg	80	2@	Old	1.561	1
+252.0	3.5	Lure	stimuli/objects/setsof2/080a.jpg	80	2@	Similar	1.561	1
 255.5	3.5	Lure	stimuli/objects/setsof2/042a.jpg	42	1!	Old	1.048	3
 259.0	3.5	Lure	stimuli/objects/setsof2/070a.jpg	70	1!	Old	1.551	5
 262.5	3.5	First	stimuli/objects/setsof2/007b.jpg	7	3#	New	1.459	0
@@ -101,8 +101,8 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 346.5	3.5	Foil	stimuli/objects/foils/foil_1040.jpg	0	3#	New	0.827	0
 350.0	3.5	Foil	stimuli/objects/foils/foil_1297.JPG	0	3#	New	0.726	0
 353.5	3.5	Repeat	stimuli/objects/setsof2/097b.jpg	97	1!	Old	1.010	0
-357.0	3.5	Lure	stimuli/objects/setsof2/167b.jpg	167	2@	Old	1.141	3
+357.0	3.5	Lure	stimuli/objects/setsof2/167b.jpg	167	2@	Similar	1.141	3
 360.5	3.5	Foil	stimuli/objects/foils/foil_1305.JPG	0	3#	New	0.969	0
 364.0	3.5	Foil	stimuli/objects/foils/foil_1463.JPG	0	3#	New	0.872	0
 367.5	3.5	Repeat	stimuli/objects/setsof2/161a.jpg	161	1!	Old	1.162	0
-371.0	3.5	Lure	stimuli/objects/setsof2/112a.jpg	112	2@	Old	1.100	1
+371.0	3.5	Lure	stimuli/objects/setsof2/112a.jpg	112	2@	Similar	1.100	1
