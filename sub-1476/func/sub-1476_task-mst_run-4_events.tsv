@@ -11,12 +11,12 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 31.5	3.5	Foil	stimuli/objects/foils/foil_1549.JP	0	3	New	0.648	0
 35.0	3.5	First	stimuli/objects/setsof2/062b.jp	62	3	New	0.658	0
 38.5	3.5	Foil	stimuli/objects/foils/foil_1684.JP	0	3	New	0.668	0
-42.0	3.5	Lure	stimuli/objects/setsof2/044a.jp	44	2	New	1.023	3
+42.0	3.5	Lure	stimuli/objects/setsof2/044a.jp	44	2	Similar	1.023	3
 45.5	3.5	Foil	stimuli/objects/foils/foil_1194.JP	0	3	New	1.543	0
 49.0	3.5	First	stimuli/objects/setsof2/084a.jp	84	3	New	1.140	0
 52.5	3.5	Foil	stimuli/objects/foils/foil_1434.JP	0	3	New	0.681	0
 56.0	3.5	First	stimuli/objects/setsof2/010b.jp	10	3	New	0.704	0
-59.5	3.5	Lure	stimuli/objects/setsof2/080b.jp	80	2	New	0.987	1
+59.5	3.5	Lure	stimuli/objects/setsof2/080b.jp	80	2	Similar	0.987	1
 63.0	3.5	Foil	stimuli/objects/foils/foil_1082.JP	0	3	New	0.688	0
 66.5	3.5	First	stimuli/objects/setsof2/056a.jp	56	3	New	1.184	0
 70.0	3.5	Foil	stimuli/objects/foils/foil_1609.JP	0	3	New	1.007	0
@@ -29,7 +29,7 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 94.5	3.5	Foil	stimuli/objects/foils/foil_1294.JP	0	3	New	1.133	0
 98.0	3.5	First	stimuli/objects/setsof2/048b.jp	48	3	New	0.800	0
 101.5	3.5	Foil	stimuli/objects/foils/foil_1206.JP	0	3	New	0.832	0
-105.0	3.5	Foil	stimuli/objects/foils/foil_1654.JP	0	2	New	1.238	0
+105.0	3.5	Foil	stimuli/objects/foils/foil_1654.JP	0	2	Similar	1.238	0
 108.5	3.5	First	stimuli/objects/setsof2/125a.jp	125	3	New	1.542	0
 112.0	3.5	Foil	stimuli/objects/foils/foil_1231.JP	0	3	New	0.760	0
 115.5	3.5	Foil	stimuli/objects/foils/foil_1496.JP	0	5	None	1.739	0
@@ -38,7 +38,7 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 126.0	3.5	Foil	stimuli/objects/foils/foil_1592.JP	0	3	New	1.640	0
 129.5	3.5	First	stimuli/objects/setsof2/061a.jp	61	3	New	1.283	0
 133.0	3.5	Lure	stimuli/objects/setsof2/048a.jp	48	5	None	1.738	2
-136.5	3.5	Lure	stimuli/objects/setsof2/004b.jp	4	2	None	1.446	6
+136.5	3.5	Lure	stimuli/objects/setsof2/004b.jp	4	2	Similar	1.446	6
 140.0	3.5	Foil	stimuli/objects/foils/foil_1233.JP	0	3	New	1.130	0
 143.5	3.5	First	stimuli/objects/setsof2/043a.jp	43	3	New	0.899	0
 147.0	3.5	Foil	stimuli/objects/foils/foil_1423.JP	0	3	New	0.832	0
@@ -62,10 +62,10 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 210.0	3.5	Repeat	stimuli/objects/setsof2/056a.jp	56	1	Old	1.180	0
 213.5	3.5	First	stimuli/objects/setsof2/135b.jp	135	3	New	1.254	0
 217.0	3.5	Lure	stimuli/objects/setsof2/082b.jp	82	3	New	0.840	1
-220.5	3.5	Lure	stimuli/objects/setsof2/043b.jp	43	2	New	1.204	5
+220.5	3.5	Lure	stimuli/objects/setsof2/043b.jp	43	2	Similar	1.204	5
 224.0	3.5	First	stimuli/objects/setsof2/150a.jp	150	3	New	1.336	0
 227.5	3.5	Foil	stimuli/objects/foils/foil_1613.JP	0	5	None	1.732	0
-231.0	3.5	Lure	stimuli/objects/setsof2/110b.jp	110	2	None	1.143	4
+231.0	3.5	Lure	stimuli/objects/setsof2/110b.jp	110	2	Similar	1.143	4
 234.5	3.5	First	stimuli/objects/setsof2/017b.jp	17	3	New	0.796	0
 238.0	3.5	Repeat	stimuli/objects/setsof2/090b.jp	90	5	None	1.732	0
 241.5	3.5	Repeat	stimuli/objects/setsof2/071a.jp	71	1	Old	1.184	0
@@ -79,7 +79,7 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 269.5	3.5	First	stimuli/objects/setsof2/160b.jp	160	5	None	1.730	0
 273.0	3.5	Repeat	stimuli/objects/setsof2/061a.jp	61	5	None	1.730	0
 276.5	3.5	Foil	stimuli/objects/foils/foil_1021.jp	0	3	New	0.798	0
-280.0	3.5	Lure	stimuli/objects/setsof2/095b.jp	95	2	New	1.170	6
+280.0	3.5	Lure	stimuli/objects/setsof2/095b.jp	95	2	Similar	1.170	6
 283.5	3.5	First	stimuli/objects/setsof2/087b.jp	87	5	None	1.730	0
 287.0	3.5	First	stimuli/objects/setsof2/137b.jp	137	3	New	0.954	0
 290.5	3.5	Lure	stimuli/objects/setsof2/053b.jp	53	5	None	1.729	4
@@ -91,11 +91,11 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 311.5	3.5	Repeat	stimuli/objects/setsof2/087b.jp	87	1	Old	1.294	0
 315.0	3.5	Repeat	stimuli/objects/setsof2/017b.jp	17	1	Old	1.019	0
 318.5	3.5	First	stimuli/objects/setsof2/158a.jp	158	3	New	0.908	0
-322.0	3.5	Lure	stimuli/objects/setsof2/137a.jp	137	2	New	1.224	4
+322.0	3.5	Lure	stimuli/objects/setsof2/137a.jp	137	2	Similar	1.224	4
 325.5	3.5	Foil	stimuli/objects/foils/foil_1542.JP	0	3	New	1.318	0
 329.0	3.5	First	stimuli/objects/setsof2/176b.jp	176	3	New	1.067	0
 332.5	3.5	Repeat	stimuli/objects/setsof2/075b.jp	75	5	None	1.727	0
-336.0	3.5	Lure	stimuli/objects/setsof2/117b.jp	117	2	None	1.163	2
+336.0	3.5	Lure	stimuli/objects/setsof2/117b.jp	117	2	Similar	1.163	2
 339.5	3.5	Foil	stimuli/objects/foils/foil_1081.JP	0	3	New	1.438	0
 343.0	3.5	Lure	stimuli/objects/setsof2/041b.jp	41	1	Old	1.415	6
 346.5	3.5	Foil	stimuli/objects/foils/foil_1136.JP	0	3	New	1.415	0
@@ -104,5 +104,5 @@ onset	duration	trial_type	stimulus_name	set_num	keypress	response	rt	similarity_
 357.0	3.5	Foil	stimuli/objects/foils/foil_1310.JP	0	3	New	0.915	0
 360.5	3.5	Foil	stimuli/objects/foils/foil_1388.JP	0	3	New	0.740	0
 364.0	3.5	Foil	stimuli/objects/foils/foil_1708.JP	0	3	New	1.594	0
-367.5	3.5	Lure	stimuli/objects/setsof2/176a.jp	176	2	New	1.062	2
+367.5	3.5	Lure	stimuli/objects/setsof2/176a.jp	176	2	Similar	1.062	2
 371.0	3.5	Repeat	stimuli/objects/setsof2/157b.jp	157	1	Old	1.307	0
